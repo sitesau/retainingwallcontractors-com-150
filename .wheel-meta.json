@@ -1,0 +1,19 @@
+{
+  "wheel_id": 307,
+  "structure": "umbrella",
+  "slug": "retainingwallcontractors-com-150",
+  "project": "retaining-wall-contractors-brisbane-ba7457ec294e5ab05cc9533ab66",
+  "parent_t1_ref": "retainingwallcontractors.com-001",
+  "node_role": "buffer",
+  "money_target": "retainingwallcontractors.com.au",
+  "primary_kw": "retaining wall contractors brisbane",
+  "intended_url": "http://retaining-wall-contractors-brisbane-ba7457ec294e5ab05cc9533ab66.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "writeback_nonce": "968be0a07de67c65",
+  "links": [
+    {
+      "target_url": "https://retaining-wall-contractors-brisbane-e8aa1d.gitlab.io/",
+      "anchor": "retaining wall contractors brisbane",
+      "rel": "follow"
+    }
+  ]
+}
